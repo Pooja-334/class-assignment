@@ -2,7 +2,6 @@
 
 <html>
     <head> 
-    
         <style>
             input{
                 width: 300px;
